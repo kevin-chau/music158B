@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 765.0, 627.0, 641.0, 235.0 ],
+		"rect" : [ 590.0, 318.0, 641.0, 427.0 ],
 		"bglocked" : 1,
 		"openinpresentation" : 1,
 		"default_fontsize" : 11.0,
@@ -5966,7 +5966,7 @@
 							"modernui" : 1
 						}
 ,
-						"rect" : [ 0.0, 26.0, 641.0, 209.0 ],
+						"rect" : [ 0.0, 26.0, 641.0, 401.0 ],
 						"bglocked" : 1,
 						"openinpresentation" : 0,
 						"default_fontsize" : 11.0,
@@ -7551,7 +7551,7 @@
 							"modernui" : 1
 						}
 ,
-						"rect" : [ 0.0, 26.0, 641.0, 209.0 ],
+						"rect" : [ 0.0, 26.0, 641.0, 401.0 ],
 						"bglocked" : 1,
 						"openinpresentation" : 0,
 						"default_fontsize" : 11.0,
@@ -10221,7 +10221,7 @@
 					"outlettype" : [ "bang" ],
 					"patching_rect" : [ 49.5, 119.0, 60.0, 21.0 ],
 					"style" : "",
-					"text" : "qmetro 20"
+					"text" : "qmetro 25"
 				}
 
 			}
