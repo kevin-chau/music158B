@@ -1,0 +1,21 @@
+{
+	"diffuse_model" : "lambert",
+	"specular_model" : "blinn",
+	"fog" : "none",
+	"params" : 	{
+
+	}
+,
+	"textures" : 	{
+
+	}
+,
+	"filename" : "Hipstersepiarood.jitmtl",
+	"color" : [ 0.5, 0.5, 0.5, 1.0 ],
+	"mat_emission" : [ 0.116935, 0.062519, 0.072184, 1.0 ],
+	"mat_ambient" : [ 1.0, 0.770315, 0.0, 1.0 ],
+	"mat_diffuse" : [ 0.209362, 0.380544, 0.339752, 1.0 ],
+	"mat_specular" : [ 0.87773, 1.0, 0.921474, 1.0 ],
+	"shininess" : [ 255.0 ],
+	"fog_params" : [ 0.5, 0.5, 0.5, 0.0, 1.0, 1.0, 100.0 ]
+}
