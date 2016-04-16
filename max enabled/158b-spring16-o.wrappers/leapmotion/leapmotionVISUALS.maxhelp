@@ -167,13 +167,11 @@
 									"fontface" : 0,
 									"fontsize" : 12.0,
 									"id" : "obj-14",
-									"linecount" : 2,
 									"maxclass" : "o.display",
 									"numinlets" : 1,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 370.0, 121.0, 200.0, 48.0 ],
-									"text" : "/unlabeled/midi/note/60 : 0",
+									"patching_rect" : [ 370.0, 121.0, 200.0, 34.0 ],
 									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 								}
 
@@ -242,13 +240,11 @@
 									"fontface" : 0,
 									"fontsize" : 12.0,
 									"id" : "obj-5",
-									"linecount" : 16,
 									"maxclass" : "o.display",
 									"numinlets" : 1,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 706.0, 242.0, 328.0, 238.0 ],
-									"text" : "/midi/channel : 2,\n/get/leap/data : 0,\n/render/visualizer : 0,\n/key/79 : 0,\n/key/80 : 0,\n/key/78 : 0,\n/key/75 : 0,\n/key/76 : 0,\n/key/77 : 0,\n/key/81 : 0,\n/key/83 : 0,\n/key/82 : 0,\n/key/84 : 0,\n/grp/a/encoder/4 : 0,\n/send/left/toggle : 0,\n/send/right/toggle : 0",
+									"patching_rect" : [ 706.0, 242.0, 328.0, 34.0 ],
 									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 								}
 
@@ -1043,6 +1039,7 @@
 						"boxes" : [ 							{
 								"box" : 								{
 									"bordercolor" : [ 0.2, 0.2, 0.2, 1.0 ],
+									"cols" : 1,
 									"colwidth" : 80,
 									"fontface" : 0,
 									"fontname" : "Arial",
@@ -1057,7 +1054,7 @@
 									"patching_rect" : [ 50.0, 100.0, 807.0, 397.0 ],
 									"presentation" : 1,
 									"presentation_rect" : [ 520.0, 512.0, 807.0, 397.0 ],
-									"rows" : 22,
+									"rows" : 1,
 									"selmode" : 0,
 									"vscroll" : 0
 								}
@@ -1819,6 +1816,7 @@
 						"boxes" : [ 							{
 								"box" : 								{
 									"bordercolor" : [ 0.2, 0.2, 0.2, 1.0 ],
+									"cols" : 1,
 									"colwidth" : 80,
 									"fontface" : 0,
 									"fontname" : "Arial",
@@ -1833,7 +1831,7 @@
 									"patching_rect" : [ 50.0, 101.0, 807.0, 397.0 ],
 									"presentation" : 1,
 									"presentation_rect" : [ 520.0, 512.0, 807.0, 397.0 ],
-									"rows" : 22,
+									"rows" : 1,
 									"selmode" : 0,
 									"vscroll" : 0
 								}
@@ -3645,7 +3643,6 @@
 									"numoutlets" : 5,
 									"outlettype" : [ "", "", "", "", "" ],
 									"patching_rect" : [ 242.0, 243.0, 230.0, 21.0 ],
-									"presentation_rect" : [ 242.0, 243.0, 0.0, 0.0 ],
 									"style" : "",
 									"text" : "route metacarpal proximal intermediate distal"
 								}
@@ -3984,7 +3981,6 @@
 									}
 ,
 									"patching_rect" : [ 102.5, 349.0, 70.0, 21.0 ],
-									"presentation_rect" : [ 104.0, 349.0, 0.0, 0.0 ],
 									"saved_object_attributes" : 									{
 										"description" : "",
 										"digest" : "",
@@ -9018,7 +9014,7 @@
 , 							{
 								"box" : 								{
 									"bordercolor" : [ 0.2, 0.2, 0.2, 1.0 ],
-									"cols" : 13,
+									"cols" : 1,
 									"colwidth" : 80,
 									"fontface" : 0,
 									"fontname" : "Arial",
@@ -9031,7 +9027,7 @@
 									"numoutlets" : 4,
 									"outlettype" : [ "list", "", "", "" ],
 									"patching_rect" : [ 35.0, 403.0, 1042.199951, 200.0 ],
-									"rows" : 11,
+									"rows" : 1,
 									"selmode" : 0,
 									"vscroll" : 0
 								}
