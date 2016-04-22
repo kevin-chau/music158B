@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 34.0, 79.0, 1372.0, 783.0 ],
+		"rect" : [ 377.0, 219.0, 858.0, 783.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -41,13 +41,11 @@
 					"fontface" : 0,
 					"fontsize" : 12.0,
 					"id" : "obj-5",
-					"linecount" : 2,
 					"maxclass" : "o.display",
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 336.0, 377.0, 150.0, 48.0 ],
-					"text" : "/midi/note/48 : 0,\n/midi/channel : 9",
+					"patching_rect" : [ 336.0, 377.0, 150.0, 34.0 ],
 					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 				}
 
@@ -120,7 +118,7 @@
 							"modernui" : 1
 						}
 ,
-						"rect" : [ 177.0, 216.0, 412.0, 783.0 ],
+						"rect" : [ 785.0, 156.0, 412.0, 783.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -740,7 +738,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "FullPacket", "FullPacket" ],
-					"patching_rect" : [ 104.0, 474.0, 128.0, 22.0 ],
+					"patching_rect" : [ 103.0, 454.0, 128.0, 22.0 ],
 					"style" : "",
 					"text" : "o.if /midi/channel == 1"
 				}
@@ -852,7 +850,7 @@
 							"modernui" : 1
 						}
 ,
-						"rect" : [ 177.0, 216.0, 412.0, 783.0 ],
+						"rect" : [ 779.0, 79.0, 412.0, 783.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -1226,7 +1224,7 @@
 							"modernui" : 1
 						}
 ,
-						"rect" : [ 669.0, 148.0, 730.0, 602.0 ],
+						"rect" : [ 115.0, 188.0, 730.0, 602.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
