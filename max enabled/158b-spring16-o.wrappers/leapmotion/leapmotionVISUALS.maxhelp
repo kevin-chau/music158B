@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 979.0, 550.0, 234.0, 154.0 ],
+		"rect" : [ 883.0, 508.0, 330.0, 196.0 ],
 		"bglocked" : 1,
 		"openinpresentation" : 1,
 		"default_fontsize" : 11.0,
@@ -404,7 +404,6 @@
 													}
 ,
 													"patching_rect" : [ 236.0, 230.0, 80.0, 22.0 ],
-													"presentation_rect" : [ 236.0, 230.0, 0.0, 0.0 ],
 													"saved_object_attributes" : 													{
 														"description" : "",
 														"digest" : "",
@@ -1793,7 +1792,6 @@
 													}
 ,
 													"patching_rect" : [ 880.0, 454.0, 80.0, 22.0 ],
-													"presentation_rect" : [ 880.0, 454.0, 0.0, 0.0 ],
 													"saved_object_attributes" : 													{
 														"description" : "",
 														"digest" : "",
@@ -2048,7 +2046,6 @@
 													}
 ,
 													"patching_rect" : [ 700.0, 469.0, 80.0, 22.0 ],
-													"presentation_rect" : [ 698.5, 469.0, 0.0, 0.0 ],
 													"saved_object_attributes" : 													{
 														"description" : "",
 														"digest" : "",
@@ -2779,13 +2776,13 @@
 									"fontface" : 0,
 									"fontsize" : 12.0,
 									"id" : "obj-4",
-									"linecount" : 24,
+									"linecount" : 26,
 									"maxclass" : "o.expr.codebox",
 									"numinlets" : 1,
 									"numoutlets" : 2,
 									"outlettype" : [ "FullPacket", "FullPacket" ],
-									"patching_rect" : [ 90.0, 451.0, 298.0, 345.0 ],
-									"text" : "/y/scale/base = 150,\n/y/scale/limit = 300,\n/x/scale/base = 0,\n/x/scale/limit = 175,\n/z/scale/base = 0,\n/z/scale/limit = 100,\n/x/scale/left = scale(/left/spherecenter[[0]],/x/scale/base,-1*/x/scale/limit, 127., 0.),\n/x/scale/right = scale(/right/spherecenter[[0]],/x/scale/base,/x/scale/limit, 127., 0.),\n/y/scale/left = scale(/left/spherecenter[[1]],/y/scale/base,/y/scale/limit, 127., 0.),\n/y/scale/right = scale(/right/spherecenter[[1]],/y/scale/base,/y/scale/limit, 127.,0.),\n/z/scale/left = scale(/left/spherecenter[[2]],/z/scale/base,/z/scale/limit, 127., 0.),\n/z/scale/right = scale(/right/spherecenter[[2]],/z/scale/base,/z/scale/limit, 127. ,0.)",
+									"patching_rect" : [ 90.0, 451.0, 298.0, 372.0 ],
+									"text" : "/left/spherecenter ??= [0,0,0],\n/right/spherecenter ??= [0,0,0],\n/y/scale/base = 150,\n/y/scale/limit = 300,\n/x/scale/base = 0,\n/x/scale/limit = 175,\n/z/scale/base = 0,\n/z/scale/limit = 100,\n/x/scale/left = scale(/left/spherecenter[[0]],/x/scale/base,-1*/x/scale/limit, 127., 0.),\n/x/scale/right = scale(/right/spherecenter[[0]],/x/scale/base,/x/scale/limit, 127., 0.),\n/y/scale/left = scale(/left/spherecenter[[1]],/y/scale/base,/y/scale/limit, 127., 0.),\n/y/scale/right = scale(/right/spherecenter[[1]],/y/scale/base,/y/scale/limit, 127.,0.),\n/z/scale/left = scale(/left/spherecenter[[2]],/z/scale/base,/z/scale/limit, 127., 0.),\n/z/scale/right = scale(/right/spherecenter[[2]],/z/scale/base,/z/scale/limit, 127. ,0.)",
 									"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 
@@ -3381,7 +3378,7 @@
 									"maxclass" : "newobj",
 									"numinlets" : 2,
 									"numoutlets" : 2,
-									"outlettype" : [ "", "" ],
+									"outlettype" : [ "", "FullPacket" ],
 									"patching_rect" : [ 71.0, 114.5, 109.0, 22.0 ],
 									"style" : "",
 									"text" : "m158.o.io.mpk249"
@@ -4339,6 +4336,24 @@
 				"implicit" : 1
 			}
 , 			{
+				"name" : "m158.o.io.mpk249.maxpat",
+				"bootpath" : "~/music158B/max enabled/158b-spring16-o.wrappers/mpk249",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "o.io.midi.flat.maxpat",
+				"bootpath" : "~/158B/max enabled/158b-spring16-o.wrappers/z_o.io.support/Protocols/midi",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "o.righttoleft.maxpat",
+				"bootpath" : "~/CNMAT/CNMAT-odot/patchers/ordering",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
 				"name" : "o.io.midi.panel.maxpat",
 				"bootpath" : "~/158B/max enabled/158b-spring16-o.wrappers/z_o.io.support/Protocols/midi",
 				"type" : "JSON",
@@ -4380,6 +4395,14 @@
 			}
 , 			{
 				"name" : "o.display.mxo",
+				"type" : "iLaX"
+			}
+, 			{
+				"name" : "o.if.mxo",
+				"type" : "iLaX"
+			}
+, 			{
+				"name" : "o.messageiterate.mxo",
 				"type" : "iLaX"
 			}
 , 			{
