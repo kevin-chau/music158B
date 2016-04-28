@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 811.0, 218.0, 640.0, 480.0 ],
+		"rect" : [ 664.0, 286.0, 558.0, 447.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -44,7 +44,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "signal", "int" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 436.0, 204.0, 22.0, 140.0 ],
+					"patching_rect" : [ 71.0, 89.0, 22.0, 140.0 ],
 					"style" : ""
 				}
 
@@ -55,7 +55,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 8,
 					"numoutlets" : 0,
-					"patching_rect" : [ 230.0, 403.0, 117.0, 22.0 ],
+					"patching_rect" : [ 57.0, 264.0, 117.0, 22.0 ],
 					"style" : "",
 					"text" : "dac~ 1 2 3 4 5 6 7 8"
 				}
@@ -68,7 +68,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 8,
 					"outlettype" : [ "signal", "signal", "signal", "signal", "signal", "signal", "signal", "signal" ],
-					"patching_rect" : [ 245.0, 97.0, 117.0, 22.0 ],
+					"patching_rect" : [ 62.0, 29.0, 117.0, 22.0 ],
 					"style" : "",
 					"text" : "adc~ 1 2 3 4 5 6 7 8"
 				}
