@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<main>
+  <version major="1" minor="0"/>
+  <controller kind="midi">
+    <id ID="1817205337"/>
+    <properties Model="Model" Manufacturer="Manufacturer" Version="0.0" Publisher="Publisher"
+                PCDevice="" MacDevice="" HiRes="off"/>
+    <icon Data="8742.IBkSG0fBZn....PCIgDQRA....D....PHX....fpoEm2....DLmPIQEBHf.B7g.YHB..f.PRDEDU3wY46kEibccldemy4tWacszUuT8V0KhaM6lTThRTVxxhVBRxNiksTjsShgmIYxfLHH.4oAHuj.xGBPxCCxSBHdPhwLIFIFlNlxRiGaKM1lxRThKhTjcyls58spqdqpt1u62yIOzcWtoHorjGY+xb.tnQ03V2Sc99+9+Oem+++Kv+HeP9CwjHDh8OOebyon4MQHhOl66yrgzuudv6tno.ft3hKxzzzXxxxLFiQIDBkPHj8cuBgPvCBB3dddA111ABgH..b.v+8IX7YJCXeKZ15qutrtttZPPPHNmGRRRxfy45bNWyyySly4R6N+BNm6SoTOBgXKKKaQHDSJk1fwXMrrrbZu818.P.98.X7YBCXuE9JqrhRznQ04bdDMMs3.HEgPRGIRjVGe7wiaZZFUWWObwhE0u7kurBmyY.HXfAFvsd85VczQG0qUqV0m8Ye1RoRkZKaa6MkjjJTpToRTJsV0pUsDBgK9LDH9GDCXuE9hKtnbhDIB433jLb3vcnqq28VasUOKu7xcMyLyz967NuSxJUpDtb4x50pUSqVsZJdddLGGGpllF2yyK..tbIcaMUUq1aKQ8rc2cw95qu0ylMatQGczk6u+9Wgy4q433Tb6s2tQe80m2mE.wuy.fPHn.PpRkJgbbbRpnnzsiiyfyO+7OvJqrR1kWd4Nu0stUxolZpnSM0TZkJURF.LrabgOxbK..OLA7j5HXIS3A.6t6t6p8zSOEO9wOd9QFYjEFXfAltmd5Y1Vas0U.PwXwh0..9DBg+GL.XOq95qutlrrbKDBoGJkdfs1ZqCO93ievabiazyO7G9CSM4jSFF.pXG2LJgPHTJ8NlSwtePUB3PcFCOTOsINY2Iv+8quj35SliGHfO.b.PcUU0Bm9zmd4m8Ye1O7QdjG41c2c2SooosrmmW41auca76Ha3SULfcW7rRkJEhwXs4448.BgXzs1ZqQ1XiMF75W+5c7c+te2Hat4lpTJks68SHDB1WPe..DHD.BBnTBdoGNC9W+j8hQ5NFQSgAalIoZ4ZzoVqAShQTHDXPozXW7hWL8ktzkxb7ie7d+FeiuQluxW4qbSFiMcoRk1Hd73MDBQvmVP3SL.r6hQpZ0pQIDR2FFFGcwEW7DbNeT.zWxjISjMaV83wiyVas0nDBARR28im..WOOPnR3wOPB7RmnC7ENbq3vcEEx5R.dA3q9vchUK6f+K+cyQXTBgwnT.AyzzT022Ozku7kSTpToziO93s9U9Jek3iN5niWsZ0UhFMZUgP3+oADXeJV7x0pUqEgPzeiFMd3qe8q+DiM1XmLd73CnnnjTHD5ZZZrAFX.5ryNKJTn.jkkwdV+cX.DvE.YSEBuvC1N9W93ci+EmpGzYOwPfsOxWvB5RLzRRczhLEaT0EqTxA19BnJKQjUTn555JAAA5qrxJQmd5oiWtbYCYYYRxjIcjjjrmc1Y8dkW4U3m8rm8SD.7akArmkuVsZwbcc6my4Oxku7kerye9yez23MdiN+K9K9KBM5niJ8nO5iRbbbvniNJFe7wwxKuLBBBvt98MG9bNNQ+sf+cmtW7fOPb3Xwg0VMvUWnBlLec7Gcr1PFBvg6HD92+E6E4J6hIx2.BBERLJA.DMMMUCCi3bNW40dsWSKe975MZzP4YdlmgjHQh4AP4OoLgOVFvd97UpTIpPH52xx5Qt8su8S727272L54O+4y.fPUqVU5zm9zjCbfCfZ0pAFiACCCTrXQL4jSBYYYvXrcXATBnTJpYyQuI0wCOXKvxzC+Od6b3+7OYdbo4qhvJDzSbUjHpBzoDnJQQtxtXsZAPSgAJkhcCnRYLlrllldwhECu0VaoxXrft5pq5VVVMhEKl2YNyYD+1XB+1X.zRkJEB.cQozi+du26cpevO3GLxq+5udm111FTJkc0qdU7lu4aht6taDOdb344gG7AeP7LOyyfO3C9.ToREDDDzLd.iArVUO75iU.9bfakuAd24qfY1zFRTB9qdm0PuIzPl1zPTEJ7CDfCJXLJXLFDBAHDBnTJgPHRLFKjkkUmW6ZWC.vOa1rNG5PGxY94meo96u+5XGEje5Y.BgfjOedM.zdznQO1a+1u8S7C+g+vG77m+7cYaaGJZznLBg.aaaTrXQDIRDbjibDXaaCCCCnqqCeeeL6ryBSSSHIIANmCAmCGOerQYKb0EJgK7gaiMqXCUF.g.jujCTkoP3xw6LeM7ympJVprK.gBYIFXrctjjj.kRAmyoZZZRISlT8.G3.Z82e+Hd730YLVYaaaq+x+x+R+ONVv8jArWPOYY4XLFavEWbwG5W7K9Ei78+9e+LFFFFZZZr81VKRjHXhIl.+re1OCG+3GGs0VaHHH.s0Va3EdgW.iO93XrwFC..555PRRBRLF3f.tPfAiy.g.HDBDDDfff.b4bN3cWZYTwlCBgBIJC5pj8r7MCpRo6vJZqs1XG9vG13odpmJCgPFoRkJUhEKVIYY4FSLwD9Bgv69EO394BPKUpjNgP5RVVdjW60dsQd0W8U6wvvHrjjzcwZBGNLlZpov26688ve9e9eNRjHArrrPnPgvW6q80PsZ0PwhEwS7DOARmNMZqs1fgQHr2oeCBBfooIJVrHVc0UwbyMKxmOO.O.xJLHIwZpiXO.v22GpppXzQGEm5TmBFFFLOOuv.nm0We8QTTT1PWWuntttI1wM3d5JbW.fPHHKt3hxwiGOYPPvC7du26Mxu5W8qxtxJqDMZznRjOphlcsrau813RW5RXzQGEm7jmDgCGFJJJ33G+3PWWG0pUCs0VaPRRBJJJM2cfy4PHDvyyCczQGnu95CCezQvlatIVX94wsu8DvxxBJJJfwXv22GDBA82e+3Dm3Dn6t6FYxjAgBEhr4laJENb3n4ymO6pqt5HoSmd0ie7iWbwEWzQHD2Skh2KF.Md73FTJsyb4xc3yctyMzG9geXxPgBonnnbekNKDBTrXQ7pu5qBUUU7vO7CC.fnQihG+webDDDf50qCWWW333.eeeHDBv46HiWVVFFFFHYxjPQQA111X4A5Gs2da3C+vODqu95PHDHc5znqt5BiLxH3fG7fMARGGGDMZTxsu8sUlc1YSVtb4g5qu9VZvAGbozoSWF.6cj56O.HDBxLyLiT5zoaoZ0pCL8zSefqbkqzY4xkMhFMJ82be6728yEjjjfPHvDSLAle94wQNxQfhhB777fmmGBBBfmmGrrrfooIbccAmyAmya5OuG6v00ETJE80WeHa1rHSlL38du2CMZz.G8nGEG6XGCISlD111MAQaaar95qi23MdCpkkkgqqam999GX0UWc5HQhjelYlow8hE7QY.jToRoYXXz1Eu3EG7Mdi2nWee+nFFFRTJkr2h2iK.g.nxHMAiff.HKKizoSiToRAIII366CFi0j9VrXQLwDSfImbRr95qCKKK..npphVasUze+8igFZHjNcZPHjlfzQO5QQGczApToBRmNMzzzfmmGjjjfllF1byMw3iONld5oAiwH0qWWJd73QoTZuyLyLC1d6sO8PCMTwcYAer..iy4QDBQWqs1Z8eoKcoVWe800RkLIwWPfaf.JRT7LCnAaeAdqErPXEBnjc7kiEKFd1m8YQ1rYgssMjjjPrXwvJqrBt10tFlXhIvlatI1d6sgkkEBBBZxdJTn.xmOOt4MuINzgNDNwINAxjICZznAzzzPnPgfsscSs.TJElll31291Xt4lCqt5pvxxBxxxn0VakXYYo46625DSLQ+G4HGoKNmux0t10LwNoY6tAfc22WVSSqk4me9dtvEtPlM2bynoaqcIWNgnIALbBYLRGp3KevPX0xdXCSfhlbzv1AIRj.G6XGCiLxHHb3vvyyCBg.SN4j3RW5R3cdm2AqjKGTUTfjjDjkkgjjTyn6NNNHe97vwwAas0Vv11FOzC8Pn6t6FTJENNNPVVF999v00EEJT.yM2bXpolBas0VfPHHb3vfRoHTnPDWWWIFiEsPgBYxmOeOkKWdxN5nis+nRj2OCfXXXnvXrD23F2HS0pUSEOdbMUEYhAkfgSKiW3vgvyzuNhDih4Wihu3fgve2z1nta.5u+9wIO4IgPHfssMTUUwVasE94+7eNtwMGCVVlnszsBgX27.PHftquO18y6cYYYg28ceWTpTI7U+peUzd6sCfcXYJJJnb4xXrwFCiM1XfRoM0Wr2VjTJEJJJjPgBo444kJe97YVc0USDMZzbc1Ym162MX+mTg544o6551Z9746b4kWNVop0kzUkIeyQCi+COUBb5AM.SB.ABnwnPWlBBkf1aucjMaVDKVLPHDnnnfM2bS7q+0+ZL6byCS2.XXDFwz2wpyIR.Dolp5XLIPYRftqBOCCCvXLr95qiKdwKhBEJfHQh.EEEXXXfBEJfM2bSHKKCEEEnrKqZOlkrrL5pqtHas0VRBgH1latYmas0VsppppegKbg63zYR6Q+A.SHDgrssac4k2Hktvy3O5Psv9m7fQww6PFc0hDjnDDDvw6tfKdy4bw3axgsu.C2+NQq2yZZZZh4ladL932B99t3e9whhi2oBbBDvPlfUpJvEWI.STfiPxTHSAXTJ.APHHPPHviSPMaebqIl.YylEczQGMsxczQGns1ZCkKWFppp2wtH68afwXPSSikHQBCJklZ6s2tUKKqPYxjY68m3jlt.4ymmIIIEZ5omNwVkqFoiVnxO6PIHuvAz.Ul.SWAVoBG2bCN94y5iOXMNb4Lnoaft6JCRlLIBBBfppJVe80wzyMOH9V3ENTDbhLpP.fJMDPgPwgSKfDiCWDfB1TLRJAhJCLUEFJ6PQ.gft0EnElOlqrIlegEPO8zC5ryNA.P+82O1XiMvbyMGTTT.gPAmvfPRFJRDnH2L1BoXwhxSM0TQ777RLxHiDpZ0p2gR1l.fhhBy11VuToRwr4MLTQTo.NPEaNhBJBB.VoJG+utkOxWiAMUJhJyPnPgPjHQ.iw.mygjjDVMedTpXAbvLwv23HJ3BqHv+2ICPMG.eAvKNDvIamfuXux30VfgGKiGRqIPtojfGggXJbLbLWDWVfpHLVaiMwxKuBxjICDBAhFMJRlLIz00grhBXTJzk.jHAvLf1LPYsZ0vZqslzzSOsgrrbLKKKcYY46M.vXLJ.zJTnPDIGGsaWtNMiSFxmyK.QUCPHFAYiRvPIkgMGvwiCEEYjLYRnpp1bqoff.TnbUDhXiilVAqVSf4JSfqPFsX.H.EKTWfdMCP1nBnnHgHRtPH.1vSEYCGfuVGUAi.72tQbDvjgukEpUqJ788AvNZNz00QpTsBSGWHSBvCGoLxRJhu6LR3lKWDas4FvrdcBmyo.Py00MR4xk0BGN7cGC..DJkR4btR4xkM.fRKszBckFR3sVUfmNCGcDgiXJ.uv.DzHPF2XCfVTkQ73wgllVyH30qWGl1tHkFPuwHX4ZDTzkAEEFzU.3BBbf.9bNhJEfjFRvJfBCINNYJe7vsTCkBTwD0ihBBMHoPfusCrssgiiCXLF777frhJRzRLPVaQ7DwJhmLUc3aYguPLeb8h4wpqTDpJDrapnU788MpWuthrr7doj+NiAPHDpuuub850UCBBjsbboATE7VqIgtBYijZtPF.OZqbrTUJ1xRFPVEgBEBxxx2glbPnHtgLRnvwh0TfGTPHcFTXD3KHHgtOTntngGAcFFPmFf9TLwWrUerYfFd2pwwxNgQTUATYTHIsyyeuCEw4bXZZhb4xgYm713KbHSjpccTWkgmoaAtRFFVdSEXI.jnfB.YeeeUSSS4PgBcOY.6QsnyM2bRpppzAx1G.gfB9TbqJBzSHezktGr8En6PBLPKTrfqRyeb6+74JxJPxWFDtGTY.xxRPBJPhAPDTzWXaDRRfbNZnC8.DWhijTG3HKvOpT2Xi.cDSgCH3vyK.111v00EdddMYZaWr.d+O3CvMlXZzgWXzU7NwvsIi1aQG+SOVBrtIG+jOr5tFaPEBgjuuOE.3Lm4L2a.XO+q8zuSHDHICbqZQPOk8QWJ1Xhp53c1NJV1UAFZxfwnfR24RHDPQQAZZJv1TFkcCP+FtXImvXMgNzj3PBDLbnFPmIv0Zj.G1nBVwOBpYpg3TaLpQMbiF6Dv0r51nR4xXwkVB999MOUouuObbbfisCBqIg+1IqgdSTFizV6v1iiOWegvxkbwUxYgpNA6EiCL1cm.r6..XLF+AdfGveyM2jaaaivgCC.AbCHXbGUTuXLrhoLxKTfpAPH0eSBO2aRhDIBRDID1rZbLOO.OS30vKHWAG0wGLJPV0Fv..ua0XXCaBdL0pXlR.+zMBPmjZ3kFrBd24cwuXJKDANvx1toQIHH.hcO8kooI1ZqMACBTwTfWaxpn+DJ3O5PQQ6sHiuP1P3e6iDGemqTF0pBNgw7kjjtqRns+yBvCBB7JTnfyBKrfmiiCOSlLr8lvwDDbCPgrBCJR9fwCfM3nQiFMS+8dp3nfibEp.yFLDnXhLxNPmsEB3AXUmp35k0vEJVCZR.c+Pl38VyB+sWyDcp6hmKgJh2nNPwFXUOf.eebzgGFYylEdddfRond85nPgBnT4xPHoBUCIzZHo8VGv2I.8EWBe8gif23x04q.3QjjbBEJjmhhx87vPhXwhwWas0bWYkULGarwbsrr3kKWtIhC.vjjPrnQaZMjjjP850QpToP6s2NnTJzzz..v1qmCyWsJ9k1AnUk.zmtMndN3Jq6hMp6COWezaBYrY1Vwrq0.ardMfDx3mtHE81hNd59Y37yYCUFCCMzPnu95qYZvxkKGVd4U.i.DQigi0oN9W8fwwKNbT3xEngqOb73XoRdHbatb51T2P55lgCG10zzju+zkueW.tPHrkjjp444YGDDvykKmPHDjc1yf.BAMi1uW5oUTTv.CL.Fd3gguuOBBBvfCNHt90uNt10uNzMLfMkh7DNHB.m..MEFTkYnpGve5OqLp6IPnvxviSvqMqCd4gzPZc.EFCoaMMFbvAQ5zoa5JrRtbXwUxgjgUv+rQigWZ3n3vo0fmOG5R.kc43b2pJ9qtZYw7aGvMBE1NrtdMNmae+X...ALFyJQhDUTTTLqUql+8H8eMYDbNuohqM2byl6Q666iCbfCfG8QeT7AevGfs2da3H.XRxP..I5NfHE6TfzEpF.UFAJRTvAvR0337yZCKGaDROJN8oOMFbvAal4HUUULwD2FSd6aiCjPGu7gifGpyczK35wwkV1A+3Iqg+tYZf4K4BJOvuk3wMSkJUEeeeKYY46HsX2A.PozFc2c2aGOd7ZEKVziwX6UA6lCBgzzWr0VasoFcOOulxgCEJDN0oNE1d6swq+5uNVd4kgHvCJJJMeFBg.TBAQT9MUNlKDvOfiqm2Fs1Va3od7GEO7C8PHZznfy4fwXX1YmESN4sQohEferVwJU7wgaM.1lb72ufE9ISahe1rlX6F9HpNUXaE30QqsVKUpTaKII0PRR5tA.BgHDBQfrrbiAFXfshFMZgff.SBgDA24QlgPHfrrLRjHAFd3gwy9rOK5niNZtHHDBpUqF5niNvK8RuDZznAdq25svZqs1cwh9nelRHvPWCISDGO9i+334dtmCDBo4grpVsJdy27Mwp4xAYMcrTYe7JueEPIBTyki+qWrBxUK.B.jHjD3BQ.myMau81KjISls788aDMZzf6WBQ3Bgv5.G3.aEMZz7AAAU777RJKKuWyLgff.355hibjifm7IeRb3CeXnpp1L+b6cwXLXYYAccc7G+G+GigFZH7Zu1qgqe8q2TO+90NrWxQCEJDFbvAwi8XOFN3AOXSQO6kb0EWbQbsqcMTrXQDRSA9BAtcAO7e5sJAN.1zJ.6U0BAfv222mwXUZs0Vy2ZqstEkRstvEtv8MFfPQQwsmd5Y6N5niUIDRAYY4NIDhpssMgy4ns1ZCOxi7H3HG4Hnqt5BQiFEAAAHTnPHHH.4ymGgCGFYxjA555vyyCISlDO5i9nHUpT3IexmDyM2bX6s2FkKWF0pUCgBEBgBEBoRkBc1YmHYxj6kme3662Tk4Mu4MwO9G+iQgBEZp5THDvNPfEp3CBHPlBPI6vB4btPUU0t0VasP5zoWMTnPaKDB2OZAS2+YADBgvyzzr7AO3AWt2d6c0s1Zq9BBBB0RKsHOv.CPFYjQvC+vOLhEKF777fuuOz00Q4xkwst0svTSMEz00woO8owoN0oP3vggssMZokVvIO4IwvCOLVXgEvVasEJVrHJWtLLLLZB.wiGem8w2c2DFiAYYYDJTHTqVMLyLy.UU0lpTA.TH.xzcc+PyzsIBBB7YLV0QGczUyjIyxtttkKTnvcUhrOpT3.GGmZG6XGK2AO3AmuPgBOP73wi2SO8H80+5ecxPCMDZznAbbbfPHfPHPoRkvUtxUvu5W8qv7yOO..pUqFzzzvvCObS4mVVVvwwAs0VankVZAYylE999MWr64dsW.x86REIRDbvCdPbxSdRL0TSAKKq6Hgp2i1PU344YmNc5s5t6tmOd734BBBpkOe96pvH2g33yblyfb4xIhGONc6s2NxRKsTaeyu42r0ScpSoGNbXphhBIHHnYosxkKGN+4OOtzktDJWtbybzsxJqfYlYFXaaiLYxfDIRzbGBNm2bAuWYw.Pyyenpp1TYoggQSPHUpTHQhD3ZW6ZnRkJPVV9itVZ5J6666GJTnsO3AO3Dm7jm7RQiF81whEqze1e1eVvGsRw2ACXW2.+UVYkxO0S8Ty0au8NkjjT2555gqWudDEEEVznQwxKuLt7kuLt10tFVd4kaV968asmYlYPsZ0wku56iGXnAwQGdXze+8CIIIjHQBnppBKKKTqVMTtbYToRETpTIr1ZqgwGebDMZT7zO8SiAFX.nppBMMMLxHifm64dN7S+o+TjOedDIRj6d0KDbaaayrYyl+y+4+7SEKVr4jkkKWud86YGibupMHOHHvr+96Oe1rYu8TSMUu0qWOoggg5pqtplooI4pW8p38du2C4xkCFFFMSL4NpCAzMLfiW.ld9EvG9g2F235uOFerifG3AFBZZZHUpTPSWG11NvxrApVsJpToBJWtLxmOOld5ogttNXLVSFDkRQhDIvK9huHVas0vlatYS0n64JHDBgiiiaas0VwidziNy.CLvsAP9FMZX9m7m7mbO6kv6B.1KX37yOeQOOuoSjHQls2d61pToR3IlXBoqd0qJMyLyP777PrXw9ne2cMC.IMjvgZMFRpm.yssGd+O3l3C9fquSe.v4fHDfRI6Jw92T2eFigvgCCSSSbwKdQ7fO3Ch3wiinQiBgPfAFX.749beNr3hKhEVXg82IZB.3yXrpiLxHKL5niNFmym1zzrX73wuu8G.8d8OA.2xxxhy44hDIxXLFarKe4Ku7O4m7SpuzRKEr2dy2yun.fQAdl9Tw+sS2B9O94hhCjTFV7cpimttNXpFnkHgQ1TQPHCcnpp0L59dtQJJJvwwA+nezOByO+7Hb3vM6ifO+m+yiSe5S2rxx..bNOfPH0SkJ0xCN3fikNc5w.Pt3wia8xu7Kee6jz6YCRrGKHe97ULMMmc80WO9MtwMhs3hKpqnnzSjHQBQHj6J6BbAfcf.e6Coi+MiFBCkPBTIBd5rZXtxAXgJ9v1Wf9hIgu9AzvI6TF+8K3hewRNHWCNBK+ahmuWwUmbxIw67NuC5ryNQ5zogqqKhEKFdnG5gvjSNIt10tFZznQfuuuYas01pm9zmdr96u+2G.yZZZV4a8s9V2Wq+8E.1GH3L+7yuUu816DG4HGIxZqslgkkkrPH5jPHF39ziQRDBTkHPSg.OAvyOjFVod.9diahSztDd5rp3ab.MbvDL7.wXntGGaMuC1+AO1KlhuuO9k+xeIRlLIdwW7EQPP.rrrPu81K9ReouDlXhIBpVspY1rYW6Tm5TiexSdxqHKKOgkk0VwiG242Vqx8w1lbm4LmA27l2z+vG9vNISlzYyM2DUqVUqQiFFLFScWV.o4uaB.iRvzk7gDgfGIiLbC.xzBEBHfS.ve5nF3EOnNxDdm1kKkNAStc.lrnObB1QI29LBPVVF4ymGBg.80Wevvv.DBA4ymWv47.NmaxXr0djG4QF64e9m+hRRRuukk0RCMzP0+xe4u7u0Fl7iE.N6YOK9q+q+qEyN6r9Yxjwtqt5xLe9770VaMYaaacYYYUgPHQ2sm01qfmUcATXDzYXFRGh.JHHtNCOVWJnuVXPg.nRIvmKvatjG9wy5hYqvgB62Tfz8GcmwXv11F0qWGG5PGBEKVTDDD3CfFgCGd0gGd3wNzgNzEkjjtBgPVvxxp5K8Ruzmn9F92Zqxd1ydV7c9NeGw5qutW6s2tUmc1YCMMMmhEKRVe80UnTphmmmzt4aG.fHD.kc3ntm.mJiLhpPgDgf3ZDnKQPXYfOrfO9eNlE9+MsMlrHGAh6z5u+wdoDud85BKKKQhDIbUUUqv47k5u+9udWc00E0zztprr7BtttU91e6u8m39E9STuBe1ydV7JuxqvWbwEcOvANfYxjIqoooY5444UudcFmykHDBSHDLBgPjnDRMWAJYyQmgYnqHTDWk.OeAp5vwUx6g+22xB+fobvLkBfmXmVl+9M1shSbKKqfhEKZlNc5sRmN8LgCG9JZZZuKgPtN.VLUpTUd5m9o+T0rzeh6V78TIdgKbgJISlz+K8k9Rl8zSOkd0W8U2ZlYlYjFMZLHgP5..Q3btplDiYEPH+etsCoqvTzZexXsZbL1ld36bCG7Nq5BcYJBoP22bbWSqPHDhfff.EEEG.TqRkJqQozYCGN7XJJJ2jy4Sy47MjjjZbhSbhO0sK+uSuvDm6bmiFKVLMWW2VpVsZO+5e8u9.u8a+1GNWtbGTRRpGIIoTDBIrkkkprptz2pKc5o5Th7Kq6gqspGIWM9tmZ6t9AH12e4lll9JJJNNNN0aokVJL7vCu7niN5Gd3Ce3a2RKsLEgPVVQQobkJUre4W9k+c5El3ePuxLGc8scC..P.QmDQAQk6bmSxvvHz1aucxYlYltWbwEGbokV5Ale94yVsZ0N877R5KoD8nIUzRIXx4Hlr7UknDlBUShP1WaxI78846dEDDD3oppZqooUsqt5pX1rYymISlEZs0Vmt6t6dVCCiULLLJZZZ1XhIlv+rm8r+g6Ul4i.BjyctyQas0Vk888CkOe9jyN6rcrzRK08FarQOUpToK6FMZeyFNIqVuQXlPnyB3ZDhmhuuOiPHTcccdPPPfjjjqpppstttU3vgqqqqWLUpTq2VaskafAFX4ToRsB.VC.E4bdiPgB486pU+yL.3iBD.PA.5TJMRsZ0hmKWtTqu95oKTnPqW3BWH9fCNXTaa6v0qWW200UQUUkEOd7.IIIW.XkHQh54ymu5y+7OeoDIRrktt9ldddE.PIGGmZ.vp6t618yhE9diOyewI2EHX111xNNNptttgBBBB466a366qKDBMWWW4c0OPnTp..9BgvC.1RRRVLFyTWWugsscCNm6TudcuibjiD7Y4Beuwu2d2g2CLJUpDUQQgwXLFgPX999TeeephhBoZ0p..PSSSHIIwqVsJ200MHUpTAtttAwiGm+6iE89G+A+km9Lm4L2247Lm4L+A+km9ezO9+6kJgfNTLqoN.....jTQNQjqBAlf"/>
+    <mappings>
+      <input-mappings>
+        <mapping>
+          <events>
+            <midi type="Note" parameter="0x46" channel="0xa"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x1].Cue"/>
+          </controls>
+          <preset name="Holder Button">
+            <parameters>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping>
+          <events>
+            <midi type="Note" parameter="0x47" channel="0xa"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x1].PlayPause"/>
+          </controls>
+          <preset name="Holder Button">
+            <parameters>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping>
+          <events>
+            <midi type="Note" parameter="0x50" channel="0xa"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x1].LoopIn"/>
+          </controls>
+          <preset name="Trigger Button">
+            <parameters>
+              <parameter object="metronom" key="Repeat Acceleration" value="0.1"/>
+              <parameter object="metronom" key="Repeat Time" value="0"/>
+              <parameter object="metronom" key="Start Time" value="500"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping>
+          <events>
+            <midi type="Note" parameter="0x51" channel="0xa"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x1].LoopOut"/>
+          </controls>
+          <preset name="Trigger Button">
+            <parameters>
+              <parameter object="metronom" key="Repeat Acceleration" value="0.1"/>
+              <parameter object="metronom" key="Repeat Time" value="0"/>
+              <parameter object="metronom" key="Start Time" value="500"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping>
+          <events>
+            <midi type="Note" parameter="0x52" channel="0xa"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x1].LoopHalve"/>
+          </controls>
+          <preset name="Trigger Button">
+            <parameters>
+              <parameter object="metronom" key="Repeat Acceleration" value="0.1"/>
+              <parameter object="metronom" key="Repeat Time" value="0"/>
+              <parameter object="metronom" key="Start Time" value="500"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping>
+          <events>
+            <midi type="Note" parameter="0x53" channel="0xa"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x1].LoopDouble"/>
+          </controls>
+          <preset name="Trigger Button">
+            <parameters>
+              <parameter object="metronom" key="Repeat Acceleration" value="0.1"/>
+              <parameter object="metronom" key="Repeat Time" value="0"/>
+              <parameter object="metronom" key="Start Time" value="500"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping>
+          <events>
+            <midi type="Note" parameter="0x48" channel="0xa"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x1].Locator1Control"/>
+          </controls>
+          <preset name="Holder Button">
+            <parameters>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping>
+          <events>
+            <midi type="Note" parameter="0x49" channel="0xa"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x1].Locator2Control"/>
+          </controls>
+          <preset name="Holder Button">
+            <parameters>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping>
+          <events>
+            <midi type="Note" parameter="0x4a" channel="0xa"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x1].Locator3Control"/>
+          </controls>
+          <preset name="Holder Button">
+            <parameters>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping>
+          <events>
+            <midi type="Note" parameter="0x4b" channel="0xa"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x1].Locator4Control"/>
+          </controls>
+          <preset name="Holder Button">
+            <parameters>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping>
+          <events>
+            <midi type="Note" parameter="0x56" channel="0xa"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x2].Cue"/>
+          </controls>
+          <preset name="Holder Button">
+            <parameters>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping>
+          <events>
+            <midi type="Note" parameter="0x45" channel="0xa"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x1].SyncWithMaster"/>
+          </controls>
+          <preset name="Toggler Button">
+            <parameters>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping>
+          <events>
+            <midi type="Note" parameter="0x55" channel="0xa"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x2].SyncWithMaster"/>
+          </controls>
+          <preset name="Toggler Button">
+            <parameters>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping>
+          <events>
+            <midi type="Note" parameter="0x58" channel="0xa"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x2].Locator1Control"/>
+          </controls>
+          <preset name="Holder Button">
+            <parameters>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping>
+          <events>
+            <midi type="Note" parameter="0x59" channel="0xa"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x2].Locator2Control"/>
+          </controls>
+          <preset name="Holder Button">
+            <parameters>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping>
+          <events>
+            <midi type="Note" parameter="0x5a" channel="0xa"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x2].Locator3Control"/>
+          </controls>
+          <preset name="Holder Button">
+            <parameters>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping>
+          <events>
+            <midi type="Note" parameter="0x5b" channel="0xa"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x2].Locator4Control"/>
+          </controls>
+          <preset name="Holder Button">
+            <parameters>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping>
+          <events>
+            <midi type="CC" parameter="0x4a" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x2].PitchValue"/>
+          </controls>
+          <preset name="Direct Fader/Knob">
+            <parameters>
+              <parameter object="action-0" key="action" value="SetNormalTakeOver"/>
+              <parameter object="dispatch" key="centerCCandPWvalueRange" value="64 64"/>
+              <parameter object="dispatch" key="useCenteredCCandPW" value="off"/>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping>
+          <events>
+            <midi type="CC" parameter="0x3d" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x1].PitchValue"/>
+          </controls>
+          <preset name="Direct Fader/Knob">
+            <parameters>
+              <parameter object="action-0" key="action" value="SetNormalTakeOver"/>
+              <parameter object="dispatch" key="centerCCandPWvalueRange" value="64 64"/>
+              <parameter object="dispatch" key="useCenteredCCandPW" value="off"/>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping>
+          <events>
+            <midi type="Note" parameter="0x57" channel="0xa"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x2].PlayPause"/>
+          </controls>
+          <preset name="Holder Button">
+            <parameters>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping>
+          <events>
+            <midi type="CC" parameter="0x7f" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Tracker).TracksBrowse"/>
+          </controls>
+          <preset name="Inc.-Dec. Button (as Note)">
+            <parameters>
+              <parameter object="action-0" key="integer" value="1"/>
+              <parameter object="dispatch" key="interpretCCasNote" value="on"/>
+              <parameter object="metronom" key="Repeat Acceleration" value="0.1"/>
+              <parameter object="metronom" key="Repeat Time" value="0"/>
+              <parameter object="metronom" key="Start Time" value="500"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping>
+          <events>
+            <midi type="Note" parameter="0x4f" channel="0xa"/>
+          </events>
+          <controls>
+            <control alias="fam(Tracker).LoadInPlayerA"/>
+          </controls>
+          <preset name="Trigger Button">
+            <parameters>
+              <parameter object="metronom" key="Repeat Acceleration" value="0.1"/>
+              <parameter object="metronom" key="Repeat Time" value="0"/>
+              <parameter object="metronom" key="Start Time" value="500"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping>
+          <events>
+            <midi type="Note" parameter="0x5f" channel="0xa"/>
+          </events>
+          <controls>
+            <control alias="fam(Tracker).LoadInPlayerB"/>
+          </controls>
+          <preset name="Trigger Button">
+            <parameters>
+              <parameter object="metronom" key="Repeat Acceleration" value="0.1"/>
+              <parameter object="metronom" key="Repeat Time" value="0"/>
+              <parameter object="metronom" key="Start Time" value="500"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping>
+          <events>
+            <midi type="Note" parameter="0x60" channel="0xa"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x2].LoopIn"/>
+          </controls>
+          <preset name="Trigger Button">
+            <parameters>
+              <parameter object="metronom" key="Repeat Acceleration" value="0.1"/>
+              <parameter object="metronom" key="Repeat Time" value="0"/>
+              <parameter object="metronom" key="Start Time" value="500"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping>
+          <events>
+            <midi type="Note" parameter="0x61" channel="0xa"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x2].LoopOut"/>
+          </controls>
+          <preset name="Trigger Button">
+            <parameters>
+              <parameter object="metronom" key="Repeat Acceleration" value="0.1"/>
+              <parameter object="metronom" key="Repeat Time" value="0"/>
+              <parameter object="metronom" key="Start Time" value="500"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping>
+          <events>
+            <midi type="Note" parameter="0x62" channel="0xa"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x2].LoopHalve"/>
+          </controls>
+          <preset name="Trigger Button">
+            <parameters>
+              <parameter object="metronom" key="Repeat Acceleration" value="0.1"/>
+              <parameter object="metronom" key="Repeat Time" value="0"/>
+              <parameter object="metronom" key="Start Time" value="500"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping>
+          <events>
+            <midi type="Note" parameter="0x63" channel="0xa"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x2].LoopDouble"/>
+          </controls>
+          <preset name="Trigger Button">
+            <parameters>
+              <parameter object="metronom" key="Repeat Acceleration" value="0.1"/>
+              <parameter object="metronom" key="Repeat Time" value="0"/>
+              <parameter object="metronom" key="Start Time" value="500"/>
+            </parameters>
+          </preset>
+        </mapping>
+      </input-mappings>
+      <output-mappings/>
+    </mappings>
+  </controller>
+</main>
