@@ -1,0 +1,25 @@
+"Performer's Point of View"
+Caption: Kevin Chau tests out the 3D environment, which uses OpenGL to render the hand-tracking images. The noisy ball in the middle is an audio visualization element, which synchronously pulses with the audio's amplitude.
+Photo Credit: Kevin Chau, April 20th 2016
+
+Title: "Drum Rehearsal" 
+Caption: Sam Drake practices "drumming" with the Leap Motion controller. Max/MSP recognizes his
+hand gestures and sends MIDI data to Ableton Live, which is used for triggering a bank of percussive sounds.
+Photo Credit: Kevin Chau, April 26th 2016
+
+Title: "ADSR"
+Caption: One of the many iPad Lemur interfaces built by Konstantine Sherman for this project. This Attack-Decay-Sustain-Release model controls the ADSR envelope of Native Instruments' Massive, a powerful 3-oscillator synthesizer.
+Photo Credit: Konstantine Nikka-Sher Piterman
+
+Abstract:
+"Music 158B Laptop Orchestra" is a computer music collaboration developed by UC Berkeley students Sam Drake, Konstantine Nikka-Sher Piterman, and Kevin Chau. It was created in the Spring semester of 2016 for the class "Situated Instrument Design for Musical Expression", with advising and guidance from Rama Gottfried and the staff of Berkeley's Center for New Music and Audio Technologies (CNMAT). The project is both software and hardware heavy, utilizing Max/MSP as the main data processing and programming environment. The main goal of the project was to develop a live performance system for multiple performers, with an intuitive and easy to learn interface. The first half of the project involved integrating the Leap Motion controller, which can be used to track up two to hands. Max/MSP was used as a software layer to abstract the controller's data into OSC messages, which in turn were converted to MIDI messages and sent out to various other programs (e.g. Ableton Live, Traktor, etc.). A visualizer and 3D environment which rendered hand images and audio data was also added to the system, with the main goal being an increase in playability for the performers. Emulating the BCF2000 wrapper created by Rama Gottfried, we also encapsulated and wrapped a MIDI keyboard for various functions such as 4-channel mixing, 360 degree camera movement, and controlling Ableton Live. In terms of sound design, we chose to utilize a combination of sampling and real-time synthesis.
+Modern synthesizers allow for the combination of additive, subtractive and granular synthesis. Effects like echo, ADSR and amplitude modulation can be customized to create virtually limitless possibilities of timbres and sound profiles. The main limitation of computer synthesis is the interface between user and virtual instrument (in this case, NI's Massive); using a computer cursor, only one knob or variable can be modified at a time. The second of this project was the mapping of Wave-Table position to 3 MultiBall objects and their respective (x,y) coordinates from an iPad to a host computer via WiFi.  The wrapper and mapping were done through Max 7 and Lemur. The result was the ability for multiple Massive variables to be modified real-time using the iPad's multi-touch features.
+
+Software and Applications featured: Max/MSP, Lemur, Ableton Live, NI Traktor Pro, NI Massive.
+Hardware and controllers featured: Leap Motion, iPad, MPK249, Macbook (x3)
+
+
+
+
+
+
